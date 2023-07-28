@@ -1,6 +1,6 @@
 ![tests](https://github.com/jeyroik/df-langs/workflows/PHP%20Composer/badge.svg?branch=master&event=push)
 ![codecov.io](https://codecov.io/gh/jeyroik/df-langs/coverage.svg?branch=master)
-
+<a href="https://codeclimate.com/github/jeyroik/df-langs/maintainability"><img src="https://api.codeclimate.com/v1/badges/dec5675efe3eb68e21b8/maintainability" /></a>
 [![Latest Stable Version](https://poser.pugx.org/jeyroik/df-langs/v)](//packagist.org/packages/jeyroik/df-langs)
 [![Total Downloads](https://poser.pugx.org/jeyroik/df-langs/downloads)](//packagist.org/packages/jeyroik/df-langs)
 [![Dependents](https://poser.pugx.org/jeyroik/df-langs/dependents)](//packagist.org/packages/jeyroik/df-langs)
